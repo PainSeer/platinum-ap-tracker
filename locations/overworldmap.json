@@ -2055,7 +2055,7 @@
         ],
         "sections": [
             {
-                "name": "Pokemon League Fly Region",
+                "name": "Pokemon League Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -2067,7 +2067,7 @@
                 "item_count": 1
             },
             {
-                "name": "Pokemon League South Fly Region",
+                "name": "Pokemon League South Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -2701,7 +2701,7 @@
         ],
         "sections": [
             {
-                "name": "Survival Area Fly Region",
+                "name": "Survival Area Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -3917,7 +3917,7 @@
         ],
         "sections": [
             {
-                "name": "Celestic Town Fly Region",
+                "name": "Celestic Town Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -4409,7 +4409,7 @@
         ],
         "sections": [
             {
-                "name": "Resort Area Fly Region",
+                "name": "Resort Area Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -4510,7 +4510,7 @@
         ],
         "sections": [
             {
-                "name": "Twinleaf Town Fly Region",
+                "name": "Twinleaf Town Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -4903,7 +4903,7 @@
         ],
         "sections": [
             {
-                "name": "Pastoria City Fly Region",
+                "name": "Pastoria City Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -8330,7 +8330,7 @@
         ],
         "sections": [
             {
-                "name": "Hearthome City Fly Region",
+                "name": "Hearthome City Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -8848,7 +8848,7 @@
         ],
         "sections": [
             {
-                "name": "Jubilife City Fly Region",
+                "name": "Jubilife City Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -9624,7 +9624,7 @@
         ],
         "sections": [
             {
-                "name": "Solaceon Town Fly Region",
+                "name": "Solaceon Town Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -13026,7 +13026,7 @@
         ],
         "sections": [
             {
-                "name": "Sunyshore City Fly Region",
+                "name": "Sunyshore City Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -13770,7 +13770,7 @@
         ],
         "sections": [
             {
-                "name": "Canalave City Fly Region",
+                "name": "Canalave City Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -15353,7 +15353,7 @@
         ],
         "sections": [
             {
-                "name": "Eterna City Fly Region",
+                "name": "Eterna City Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -16395,7 +16395,7 @@
         ],
         "sections": [
             {
-                "name": "Veilstone City Fly Region",
+                "name": "Veilstone City Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -19117,7 +19117,7 @@
         ],
         "sections": [
             {
-                "name": "Snowpoint City Fly Region",
+                "name": "Snowpoint City Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -20142,7 +20142,7 @@
         ],
         "sections": [
             {
-                "name": "Oreburgh City Fly Region",
+                "name": "Oreburgh City Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -20877,7 +20877,7 @@
         ],
         "sections": [
             {
-                "name": "Fight Area Fly Region",
+                "name": "Fight Area Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -21051,7 +21051,7 @@
         ],
         "sections": [
             {
-                "name": "Sandgem Town Fly Region",
+                "name": "Sandgem Town Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -21162,7 +21162,7 @@
         ],
         "sections": [
             {
-                "name": "Route 221 Fly Region",
+                "name": "Route 221 Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
@@ -21253,7 +21253,7 @@
         ],
         "sections": [
             {
-                "name": "Floaroma Town Fly Region",
+                "name": "Floaroma Town Fly Unlock",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
                 "access_rules": [
