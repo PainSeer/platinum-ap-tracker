@@ -2055,6 +2055,30 @@
         ],
         "sections": [
             {
+                "name": "Pokemon League Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@pokemon_league_north_pokecenter_1f"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+            {
+                "name": "Pokemon League South Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@pokemon_league_south_pokecenter_1f"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Hidden Item Below SW Poke Ball Statue",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
@@ -2677,6 +2701,18 @@
         ],
         "sections": [
             {
+                "name": "Survival Area Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@survival_area"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Item Behind Poke Mart",
                 "access_rules": [
                     "@survival_area"
@@ -3881,6 +3917,18 @@
         ],
         "sections": [
             {
+                "name": "Celestic Town Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@celestic_town"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Item Below Shrine Right Stairs",
                 "access_rules": [
                     "@celestic_town, oldcharm"
@@ -4361,6 +4409,18 @@
         ],
         "sections": [
             {
+                "name": "Resort Area Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@resort_area"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Item Across Pond",
                 "access_rules": [
                     "@resort_area, $surf"
@@ -4450,6 +4510,18 @@
         ],
         "sections": [
             {
+                "name": "Twinleaf Town Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@twinleaf_town"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Hidden Item in Pond",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
@@ -4831,6 +4903,18 @@
         ],
         "sections": [
             {
+                "name": "Pastoria City Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@pastoria_city"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Item in Trees Above Boats",
                 "access_rules": [
                     "@pastoria_city, $surf"
@@ -8246,6 +8330,18 @@
         ],
         "sections": [
             {
+                "name": "Hearthome City Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@hearthome_city"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Hidden Item Behind Northwest Fence",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
@@ -8752,6 +8848,18 @@
         ],
         "sections": [
             {
+                "name": "Jubilife City Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@jubilife_city"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Hidden Item Next to Entrance",
                 "chest_unopened_img": "/images/locations/hidden.png",
                 "chest_opened_img": "/images/locations/hiddenopen.png",
@@ -9516,6 +9624,19 @@
         ],
         "sections": [
             {
+                "name": "Solaceon Town Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@solaceon_town",
+					"@solaceon_town_ledge"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Item on East Ledges",
                 "access_rules": [
                     "@solaceon_town"
@@ -12905,6 +13026,18 @@
         ],
         "sections": [
             {
+                "name": "Sunyshore City Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@sunyshore_city"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Item Down Stairs Behind Vista Lighthouse",
                 "access_rules": [
                     "@sunyshore_city"
@@ -13637,6 +13770,18 @@
         ],
         "sections": [
             {
+                "name": "Canalave City Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@canalave_city"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Gift in First House",
                 "access_rules": [
                     "@canalave_city_southeast_house"
@@ -15208,6 +15353,18 @@
         ],
         "sections": [
             {
+                "name": "Eterna City Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@eterna_city"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Item Behind Fence",
                 "access_rules": [
                     "@eterna_city, $cut"
@@ -16238,6 +16395,18 @@
         ],
         "sections": [
             {
+                "name": "Veilstone City Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@veilstone_city"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Item on Rock Climb Platform",
                 "access_rules": [
                     "@veilstone_city, $rock_climb"
@@ -18948,6 +19117,18 @@
         ],
         "sections": [
             {
+                "name": "Snowpoint City Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@snowpoint_city"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Item Below Crane",
                 "access_rules": [
                     "@snowpoint_city"
@@ -19961,6 +20142,18 @@
         ],
         "sections": [
             {
+                "name": "Oreburgh City Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@oreburgh_city"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Right item by Slag Heap",
                 "access_rules": [
                     "@oreburgh_city"
@@ -20684,6 +20877,20 @@
         ],
         "sections": [
             {
+                "name": "Fight Area Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@fight_area",
+					"@route_230, $surf",
+					"@route_225_gate_to_fight_area"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Super Rod from Fisherman",
                 "access_rules": [
                     "@route_225_gate_to_fight_area"
@@ -20844,6 +21051,18 @@
         ],
         "sections": [
             {
+                "name": "Sandgem Town Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@sandgem_town"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Pokemon Center Basement - Pal Pad",
                 "access_rules": [
                     "@virt_pal_pad"
@@ -20943,6 +21162,18 @@
         ],
         "sections": [
             {
+                "name": "Route 221 Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@pal_park_lobby"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Meet Oak (Event)",
                 "access_rules": [
                     "@pal_park_lobby"
@@ -21022,6 +21253,18 @@
         ],
         "sections": [
             {
+                "name": "Floaroma Town Fly Region",
+                "chest_unopened_img": "/images/locations/hidden.png",
+                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "access_rules": [
+                    "@floaroma_town"
+                ],
+                "visibility_rules": [
+                    "show_items"
+                ],
+                "item_count": 1
+            },
+			{
                 "name": "Gift from Girl in Northwest House",
                 "access_rules": [
                     "@floaroma_town_middle_house"
