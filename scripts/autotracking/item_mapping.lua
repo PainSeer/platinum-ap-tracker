@@ -88,5 +88,27 @@ ITEM_MAPPING = {
     [85]    = {{"leafstone", "toggle"}},
     [107]   = {{"shinystone", "toggle"}},
     [108]   = {{"duskstone", "toggle"}},
-    [109]   = {{"dawnstone", "toggle"}}
+    [109]   = {{"dawnstone", "toggle"}},
+
+	--Fly Unlocks
+	[14]    = {{"twinleaftownflyregion", "toggle"}},
+    [15]    = {{"sandgemftownflyregion", "toggle"}},
+    [16]    = {{"floaromatownflyregion", "toggle"}},
+    [17]    = {{"solaceontownflyregion", "toggle"}},
+    [18]    = {{"celestictownflyregion", "toggle"}},
+    [19]    = {{"jubilifecityflyregion", "toggle"}},
+    [20]   = {{"canalavecityflyregion", "toggle"}},
+    [21]   = {{"oreburghcityflyregion", "toggle"}},
+    [22]   = {{"enternacityflyregion", "toggle"}},
+	[23]    = {{"hearthomecityflyregion", "toggle"}},
+    [24]    = {{"pastoriacityflyregion", "toggle"}},
+    [25]    = {{"veilstonecityflyregion", "toggle"}},
+    [26]    = {{"sunyshorecityflyregion", "toggle"}},
+    [27]    = {{"snowpointcityflyregion", "toggle"}},
+    [28]    = {{"pokemonleaguesouthflyregion", "toggle"}},
+    [29]   = {{"fightareaflyregion", "toggle"}},
+    [30]   = {{"survivialareaflyregion", "toggle"}},
+    [31]   = {{"resortareaflyregion", "toggle"}},
+	[32]    = {{"route221flyregion", "toggle"}},
+    [33]    = {{"pokemonleagueflyregion", "toggle"}}
 }
