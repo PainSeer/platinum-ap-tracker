@@ -2056,8 +2056,8 @@
         "sections": [
             {
                 "name": "Pokemon League Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/red_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@pokemon_league_north_pokecenter_1f"
                 ],
@@ -2068,8 +2068,8 @@
             },
             {
                 "name": "Pokemon League South Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/green_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@pokemon_league_south_pokecenter_1f"
                 ],
@@ -2702,8 +2702,8 @@
         "sections": [
             {
                 "name": "Survival Area Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/blue_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@survival_area"
                 ],
@@ -3918,8 +3918,8 @@
         "sections": [
             {
                 "name": "Celestic Town Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/blue_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@celestic_town"
                 ],
@@ -4410,8 +4410,8 @@
         "sections": [
             {
                 "name": "Resort Area Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/blue_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@resort_area"
                 ],
@@ -4511,8 +4511,8 @@
         "sections": [
             {
                 "name": "Twinleaf Town Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/blue_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@twinleaf_town"
                 ],
@@ -4904,8 +4904,8 @@
         "sections": [
             {
                 "name": "Pastoria City Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/red_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@pastoria_city"
                 ],
@@ -8331,8 +8331,8 @@
         "sections": [
             {
                 "name": "Hearthome City Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/red_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@hearthome_city"
                 ],
@@ -8849,8 +8849,8 @@
         "sections": [
             {
                 "name": "Jubilife City Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/red_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@jubilife_city"
                 ],
@@ -9625,8 +9625,8 @@
         "sections": [
             {
                 "name": "Solaceon Town Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/blue_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@solaceon_town",
 					"@solaceon_town_ledge"
@@ -13027,8 +13027,8 @@
         "sections": [
             {
                 "name": "Sunyshore City Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/red_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@sunyshore_city"
                 ],
@@ -13771,8 +13771,8 @@
         "sections": [
             {
                 "name": "Canalave City Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/red_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@canalave_city"
                 ],
@@ -15354,8 +15354,8 @@
         "sections": [
             {
                 "name": "Eterna City Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/red_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@eterna_city"
                 ],
@@ -16396,8 +16396,8 @@
         "sections": [
             {
                 "name": "Veilstone City Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/red_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@veilstone_city"
                 ],
@@ -19118,8 +19118,8 @@
         "sections": [
             {
                 "name": "Snowpoint City Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/red_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@snowpoint_city"
                 ],
@@ -20143,8 +20143,8 @@
         "sections": [
             {
                 "name": "Oreburgh City Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/red_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@oreburgh_city"
                 ],
@@ -20878,8 +20878,8 @@
         "sections": [
             {
                 "name": "Fight Area Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/red_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@fight_area",
 					"@route_230, $surf",
@@ -21052,8 +21052,8 @@
         "sections": [
             {
                 "name": "Sandgem Town Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/blue_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@sandgem_town"
                 ],
@@ -21163,8 +21163,8 @@
         "sections": [
             {
                 "name": "Route 221 Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/green_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@pal_park_lobby"
                 ],
@@ -21254,8 +21254,8 @@
         "sections": [
             {
                 "name": "Floaroma Town Fly Unlock",
-                "chest_unopened_img": "/images/locations/hidden.png",
-                "chest_opened_img": "/images/locations/hiddenopen.png",
+                "chest_unopened_img": "/images/fly_unlock/blue_fly_square.png",
+                "chest_opened_img": "/images/fly_unlock/gray_fly_square.png",
                 "access_rules": [
                     "@floaroma_town"
                 ],
