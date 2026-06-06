@@ -1221,8 +1221,9 @@ LOCATION_MAPPING = {
     [143] = {"@Snowpoint City/Snowpoint City Fly Unlock"},
     [144] = {"@Pokemon League/Pokemon League South Fly Unlock"},
     [145] = {"@Fight Area/Fight Area Fly Unlock"},
-    [147] = {"@Survival Area/Survival Area Fly Unlock"},
-    [148] = {"@Resort Area/Resort Area Fly Unlock"},
+    [146] = {"@Survival Area/Survival Area Fly Unlock"},
+    [147] = {"@Resort Area/Resort Area Fly Unlock"},
+    [148] = {"@Pal Park/Route 221 Fly Unlock"},	
     [149] = {"@Pokemon League/Pokemon League Fly Unlock"},
 
 -- Dexsanity
