@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Twinleaf Town Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "twinleaftownflyregion"
+    },
+    {
+        "name": "Sandgem Town Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "sandgemtownflyregion"
+    },
+    {
+        "name": "Floaroma Town Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "floaromatownflyregion"
+    },
+    {
+        "name": "Solaceon Town Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "solaceontownflyregion"
+    },
+    {
+        "name": "Celestic Town Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "celestictownflyregion"
+    },
+    {
+        "name": "Jubilife City Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "jubilifecityflyregion"
+    },
+    {
+        "name": "Canalave City Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "canalavecityflyregion"
+    },
+    {
+        "name": "Oreburgh City Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "oreburghcityflyregion"
+    },
+    {
+        "name": "Eterna City Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "eternacityflyregion"
+    },
+    {
+        "name": "Hearthome City Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "hearthomecityflyregion"
+    },
+    {
+        "name": "Veilstone City Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "veilstonecityflyregion"
+    },
+    {
+        "name": "Pastoria City Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "pastoriacityflyregion"
+    },
+    {
+        "name": "Sunyshore City Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "sunyshorecityflyregion"
+    },
+    {
+        "name": "Snowpoint City Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "snowpointcityflyregion"
+    },
+    {
+        "name": "Fight Area Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "fightareaflyregion"
+    },
+    {
+        "name": "Survival Area Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "survivalareaflyregion"
+    },
+    {
+        "name": "Resort Area Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "resortareaflyregion"
+    },
+    {
+        "name": "Route 221 Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "route221flyregion"
+    },
+    {
+        "name": "Pokemon League South Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "pokemonleaguesouthflyregion"
+    },
+    {
+        "name": "Pokemon League Fly Region",
+        "type": "toggle",
+        "img": "images/items/coal_badge.png",
+        "codes": "pokemonleagueflyregion"
+    },
+  ]
