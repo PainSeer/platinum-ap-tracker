@@ -2847,7 +2847,8 @@
             "@solaceon_town_northeast_house",
             "@solaceon_town_pokecenter_1f",
             "@solaceon_town_pokemon_news_press",
-            "@solaceon_town_ledge, $fly"
+            "$can_freefly|solaceontown",
+            "@solaceon_town_ledge, $fly, opt_require_fly_items_for_flight_off"
         ]
     },
     {
