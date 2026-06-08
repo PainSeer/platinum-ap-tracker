@@ -919,7 +919,7 @@
                 "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_off",
                 "inherit_codes": false
             },
-                        {
+            {
                 "name": "Fly Items Required for Flight",
                 "img": "images/items/coal_badge.png",
                 "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_on",
