@@ -3467,6 +3467,13 @@
         ]
     },
     {
+        "name": "virt_fly_solaceon_town",
+        "access_rules": [
+            "@solaceon_town",
+            "@solaceon_town_ledge",
+        ]
+    },
+    {
         "name": "virt_great_marsh_national_dex",
         "access_rules": [
             "@virt_great_marsh, national_dex"
