@@ -95,8 +95,7 @@
             "@canalave_library_1f",
             "@route_218_gate_to_canalave_city",
             "@pastoria_city, $boat_canalave_pastoria",
-            "@snowpoint_city, $boat_canalave_snowpoint",
-            "@virt_fly, canalavecityflyregion"
+            "@snowpoint_city, $boat_canalave_snowpoint"
         ]
     },
     {
@@ -191,8 +190,7 @@
             "@celestic_town_pokecenter_1f",
             "@celestic_town_southwest_house",
             "@route_210_north",
-            "@route_211_east",
-            "@virt_fly, celestictownflyregion"
+            "@route_211_east"
         ]
     },
     {
@@ -292,8 +290,7 @@
             "@route_205_north",
             "@route_206_cycling_road_north_gate",
             "@route_211_west",
-            "@team_galactic_eterna_building_1f",
-            "@virt_fly, eternacityflyregion"
+            "@team_galactic_eterna_building_1f"
         ]
     },
     {
@@ -404,8 +401,7 @@
             "@fight_area_south_house",
             "@route_225_gate_to_fight_area, national_dex",
             "@route_230, national_dex, $surf",
-            "@snowpoint_city, ssticket",
-            "@virt_fly, fightareaflyregion"
+            "@snowpoint_city, ssticket"
         ]
     },
     {
@@ -477,8 +473,7 @@
             "@flower_shop",
             "@route_204_north",
             "@route_205_south",
-            "@valley_windworks_outside",
-            "@virt_fly, floaromatownflyregion"
+            "@valley_windworks_outside"
         ]
     },
     {
@@ -702,8 +697,7 @@
             "@route_208_gate_to_hearthome_city",
             "@route_209",
             "@route_209_gate_to_hearthome_city",
-            "@route_212_gate_to_hearthome_city",
-            "@virt_fly, hearthomecityflyregion"
+            "@route_212_gate_to_hearthome_city"
         ]
     },
     {
@@ -905,8 +899,7 @@
             "@route_203",
             "@route_204_south",
             "@route_218_gate_to_jubilife_city",
-            "@trainers_school",
-            "@virt_fly, jubilifecityflyregion"
+            "@trainers_school"
         ]
     },
     {
@@ -1388,8 +1381,7 @@
             "@oreburgh_city_west_house",
             "@oreburgh_gate_1f",
             "@oreburgh_mine_b1f",
-            "@route_207_south",
-            "@virt_fly, oreburghcityflyregion"
+            "@route_207_south"
         ]
     },
     {
@@ -1571,8 +1563,7 @@
             "@route_212_south",
             "@route_213_gate_to_pastoria_city",
             "@canalave_city, $boat_canalave_pastoria",
-            "@snowpoint_city, $boat_pastoria_snowpoint",
-            "@virt_fly, pastoriacityflyregion"
+            "@snowpoint_city, $boat_pastoria_snowpoint"
         ]
     },
     {
@@ -1667,8 +1658,7 @@
         "name": "pokemon_league",
         "access_rules": [
             "@pokemon_league_north_pokecenter_1f",
-            "@victory_road_1f",
-            "@virt_fly, pokemonleagueflyregion"
+            "@victory_road_1f"
         ]
     },
     {
@@ -1781,8 +1771,7 @@
             "@pokemon_league_south_pokecenter_1f",
             "@pokemon_league_south_south, $surf, $waterfall",
             "@victory_road_1f",
-            "@victory_road_1f_entrance",
-            "@virt_fly, pokemonleaguesouthflyregion"
+            "@victory_road_1f_entrance"
         ]
     },
     {
@@ -1867,8 +1856,7 @@
             "@resort_area_pokecenter_1f",
             "@resort_area_ribbon_syndicate_1f",
             "@route_229",
-            "@villa",
-            "@virt_fly, resortareaflyregion"
+            "@villa"
         ]
     },
     {
@@ -2343,8 +2331,7 @@
         "access_rules": [
             "@pal_park_lobby",
             "@route_220",
-            "@route_221_house",
-            "@virt_fly, route221flyregion"
+            "@route_221_house"
         ]
     },
     {
@@ -2539,8 +2526,7 @@
             "@sandgem_town_house",
             "@sandgem_town_mart",
             "@sandgem_town_pokecenter_1f",
-            "@sandgem_town_pokemon_research_lab",
-            "@virt_fly, sandgemflyregion"
+            "@sandgem_town_pokemon_research_lab"
         ]
     },
     {
@@ -2613,8 +2599,7 @@
             "@snowpoint_city_west_house",
             "@snowpoint_temple_1f",
             "@canalave_city, $boat_canalave_snowpoint, ^$north_sinnoh_fly",
-            "@pastoria_city, $boat_pastoria_snowpoint, ^$north_sinnoh_fly",
-            "@virt_fly, snowpointcityflyregion"
+            "@pastoria_city, $boat_pastoria_snowpoint, ^$north_sinnoh_fly"
         ]
     },
     {
@@ -2847,6 +2832,7 @@
             "@solaceon_town_northeast_house",
             "@solaceon_town_pokecenter_1f",
             "@solaceon_town_pokemon_news_press",
+            "@solaceon_town_ledge, $fly"
         ]
     },
     {
@@ -2966,8 +2952,7 @@
             "@sunyshore_city_unknown_house_1",
             "@sunyshore_city_unknown_house_2",
             "@sunyshore_city_west_house",
-            "@sunyshore_market",
-            "@virt_fly, sunyshorecityflyregion"
+            "@sunyshore_market"
         ]
     },
     {
@@ -3067,8 +3052,7 @@
             "@survival_area_mart",
             "@survival_area_north_house",
             "@survival_area_pokecenter_1f",
-            "@survival_area_south_house",
-            "@virt_fly, survivalareaflyregion"
+            "@survival_area_south_house"
         ]
     },
     {
@@ -3168,8 +3152,7 @@
             "@twinleaf_town_northeast_house",
             "@twinleaf_town_player_house_1f",
             "@twinleaf_town_rival_house_1f",
-            "@twinleaf_town_southwest_house",
-            "@virt_fly, twinleaftownflyregion"
+            "@twinleaf_town_southwest_house"
         ]
     },
     {
@@ -3188,7 +3171,7 @@
     {
         "name": "twinleaf_town_player_house_2f",
         "access_rules": [
-            "@virt_start"
+            ""
         ]
     },
     {
@@ -3281,8 +3264,7 @@
             "@veilstone_city_prize_exchange",
             "@veilstone_city_southeast_house",
             "@veilstone_city_southwest_house",
-            "@veilstone_store_1f",
-            "@virt_fly, veilstonecityflyregion"
+            "@veilstone_store_1f"
         ]
     },
     {
@@ -3525,26 +3507,7 @@
     {
         "name": "virt_roamers",
         "access_rules": [
-            "@virt_start, poketch, markingmap, ^$roamer_respawn"
-        ]
-    },
-        {
-        "name": "virt_start",
-        "access_rules": [
-            ""
-        ]
-    },
-            {
-        "name": "virt_fly",
-        "access_rules": [
-            "@virt_start, $fly"
-        ]
-    },
-            {
-        "name": "virt_fly_solaceon_town",
-        "access_rules": [
-            "@solaceon_town",
-            "@solaceon_town_ledge"
+            "@twinleaf_town_player_house_2f, poketch, markingmap, ^$roamer_respawn"
         ]
     },
     {
