@@ -2323,7 +2323,7 @@
         "name": "route_220",
         "access_rules": [
             "@route_219, $surf",
-            "@route_221"
+            "@route_221, $surf"
         ]
     },
     {
@@ -2513,7 +2513,7 @@
         "access_rules": [
             "@fight_area, national_dex",
             "@route_228",
-            "@route_229"
+            "@route_229, $surf"
         ]
     },
     {
