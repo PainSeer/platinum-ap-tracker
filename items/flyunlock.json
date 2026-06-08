@@ -3,120 +3,120 @@
         "name": "Twinleaf Town Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/twinleaf.png",
-        "codes": "twinleaftownflyregion"
+        "codes": "flyunlock_twinleaftown"
     },
     {
         "name": "Sandgem Town Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/sandgem.png",
-        "codes": "sandgemtownflyregion"
+        "codes": "flyunlock_sandgemtown"
     },
     {
         "name": "Floaroma Town Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/floaroma.png",
-        "codes": "floaromatownflyregion"
+        "codes": "flyunlock_floaromatown"
     },
     {
         "name": "Solaceon Town Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/solaceon.png",
-        "codes": "solaceontownflyregion"
+        "codes": "flyunlock_solaceontown"
     },
     {
         "name": "Celestic Town Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/celestic.png",
-        "codes": "celestictownflyregion"
+        "codes": "flyunlock_celestictown"
     },
     {
         "name": "Jubilife City Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/jubilife.png",
-        "codes": "jubilifecityflyregion"
+        "codes": "flyunlock_jubilifecity"
     },
     {
         "name": "Canalave City Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/canalave.png",
-        "codes": "canalavecityflyregion"
+        "codes": "flyunlock_canalavecity"
     },
     {
         "name": "Oreburgh City Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/oreburgh.png",
-        "codes": "oreburghcityflyregion"
+        "codes": "flyunlock_oreburghcity"
     },
     {
         "name": "Eterna City Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/eterna.png",
-        "codes": "eternacityflyregion"
+        "codes": "flyunlock_eternacity"
     },
     {
         "name": "Hearthome City Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/hearthome.png",
-        "codes": "hearthomecityflyregion"
+        "codes": "flyunlock_hearthomecity"
     },
     {
         "name": "Veilstone City Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/veilstone.png",
-        "codes": "veilstonecityflyregion"
+        "codes": "flyunlock_veilstonecity"
     },
     {
         "name": "Pastoria City Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/pastoria.png",
-        "codes": "pastoriacityflyregion"
+        "codes": "flyunlock_pastoriacity"
     },
     {
         "name": "Sunyshore City Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/sunyshore.png",
-        "codes": "sunyshorecityflyregion"
+        "codes": "flyunlock_sunyshorecity"
     },
     {
         "name": "Snowpoint City Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/snowpoint.png",
-        "codes": "snowpointcityflyregion"
+        "codes": "flyunlock_snowpointcity"
     },
     {
         "name": "Fight Area Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/fight_area.png",
-        "codes": "fightareaflyregion"
+        "codes": "flyunlock_fightarea"
     },
     {
         "name": "Survival Area Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/survival_area.png",
-        "codes": "survivalareaflyregion"
+        "codes": "flyunlock_survivalarea"
     },
     {
         "name": "Resort Area Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/resort_area.png",
-        "codes": "resortareaflyregion"
+        "codes": "flyunlock_resortarea"
     },
     {
         "name": "Route 221 Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/pal_park.png",
-        "codes": "route221flyregion"
+        "codes": "flyunlock_route221"
     },
     {
         "name": "Pokemon League South Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/victory_road.png",
-        "codes": "pokemonleaguesouthflyregion"
+        "codes": "flyunlock_pokemonleaguesouth"
     },
     {
         "name": "Pokemon League Fly Region",
         "type": "toggle",
         "img": "images/items/flyunlocks/pokemon_league.png",
-        "codes": "pokemonleagueflyregion"
+        "codes": "flyunlock_pokemonleague"
     },
   ]
