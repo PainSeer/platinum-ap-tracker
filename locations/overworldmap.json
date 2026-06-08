@@ -9628,8 +9628,7 @@
                 "chest_unopened_img": "/images/fly_unlocks/blue_fly_square.png",
                 "chest_opened_img": "/images/fly_unlocks/gray_fly_square.png",
                 "access_rules": [
-                    "@solaceon_town",
-					"@solaceon_town_ledge"
+                    "@virt_fly_solaceon_town"
                 ],
                 "visibility_rules": [
                     "show_items"
