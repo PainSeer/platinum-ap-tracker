@@ -905,5 +905,26 @@
         "max_quantity": 493,
         "overlay_background": "#000000",
         "initial_quantity": 0
-    }
+    },
+    {
+        "name": "Require Fly Items for Flight",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Fly Items Required for Flight",
+                "img": "images/items/coal_badge.png",
+                "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Fly Items Not Required for Flight",
+                "img": "images/items/relic_badge.png",
+                "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_on",
+                "inherit_codes": false
+            }
+        ]
+    },
 ]
