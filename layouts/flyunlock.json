@@ -16,32 +16,32 @@
                         "h_alignment": "center",
                         "rows": [
                             [
-                                "twinleaftownflyregion",
-                                "sandgemtownflyregion",
-                                "jubilifecityflyregion",
-                                "oreburghcityflyregion",
-                                "floaromatownflyregion"
+                                "flyunlock_twinleaftown",
+                                "flyunlock_sandgemtown",
+                                "flyunlock_jubilifecity",
+                                "flyunlock_oreburghcity",
+                                "flyunlock_floaromatown"
                             ],
                             [
-                                "eternacityflyregion",
-                                "hearthomecityflyregion",
-                                "solaceontownflyregion",
-                                "veilstonecityflyregion",
-                                "pastoriacityflyregion"
+                                "flyunlock_eternacity",
+                                "flyunlock_hearthomecity",
+                                "flyunlock_solaceontown",
+                                "flyunlock_veilstonecity",
+                                "flyunlock_pastoriacity"
                             ],
                             [
-                                "celestictownflyregion",
-                                "canalavecityflyregion",
-                                "snowpointcityflyregion",
-                                "sunyshorecityflyregion",
-                                "pokemonleaguesouthflyregion"
+                                "flyunlock_celestictown",
+                                "flyunlock_canalavecity",
+                                "flyunlock_snowpointcity",
+                                "flyunlock_sunyshorecity",
+                                "flyunlock_pokemonleaguesouth"
                             ],
                             [
-                                "route221flyregion",
-                                "fightareaflyregion",
-                                "survivalareaflyregion",
-                                "resortareaflyregion",
-                                "pokemonleagueflyregion"
+                                "flyunlock_route221",
+                                "flyunlock_fightarea",
+                                "flyunlock_survivalarea",
+                                "flyunlock_resortarea",
+                                "flyunlock_pokemonleague"
                             ],
                         ]
                     }
@@ -59,29 +59,30 @@
                 "h_alignment": "center",
                 "rows": [
                     [
-                        "event_defeat_roark",
-                        "event_defeat_gardenia",
-                        "event_defeat_maylene",
-                        "event_defeat_wake",
-                        "event_defeat_fantina",
-                        "event_defeat_byron",
-                        "event_defeat_candice",
-                        "event_defeat_volkner",
-                        "event_defeat_cynthia"
+                        "flyunlock_twinleaftown",
+                        "flyunlock_sandgemtown",
+                        "flyunlock_jubilifecity",
+                        "flyunlock_oreburghcity",
+                        "flyunlock_floaromatown",
+                        "flyunlock_eternacity",
+                        "flyunlock_hearthomecity"
                     ],
                     [
-                        "event_clear_windworks",
-                        "event_clear_eternahideout",
-                        "event_learn_of_lake_explosion",
-                        "event_clear_lakevalor",
-                        "event_clear_lakeverity",
-                        "event_clear_lakeacuity",
-                        "event_galactic_hq_defeat_cyrus",
-                        "event_met_oak_at_palpark"
+                        "flyunlock_solaceontown",
+                        "flyunlock_veilstonecity",
+                        "flyunlock_pastoriacity",
+                        "flyunlock_celestictown",
+                        "flyunlock_canalavecity",
+                        "flyunlock_snowpointcity",
+                        "flyunlock_sunyshorecity"
                     ],
                     [
-                        "event_clear_starkmountain",
-                        "event_clear_distortion"
+                        "flyunlock_pokemonleaguesouth",
+                        "flyunlock_route221",
+                        "flyunlock_fightarea",
+                        "flyunlock_survivalarea",
+                        "flyunlock_resortarea",
+                        "flyunlock_pokemonleague"
                     ]
                 ]
             }
