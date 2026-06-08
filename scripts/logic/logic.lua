@@ -325,3 +325,8 @@ end
 function night()
     return has("poketch") and has("nighttime")
 end
+
+function can_freefly(destination)
+  return fly() and 
+  (has("flyunlock_"..destination))
+end
