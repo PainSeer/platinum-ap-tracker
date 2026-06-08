@@ -916,13 +916,13 @@
             {
                 "name": "Fly Items Required for Flight",
                 "img": "images/items/coal_badge.png",
-                "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_on",
+                "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_off",
                 "inherit_codes": false
             },
             {
                 "name": "Fly Items Not Required for Flight",
                 "img": "images/items/relic_badge.png",
-                "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_off",
+                "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_on",
                 "inherit_codes": false
             }
         ]
