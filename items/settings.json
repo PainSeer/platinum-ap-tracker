@@ -915,13 +915,14 @@
         "stages": [
             {
                 "name": "Fly Items Required for Flight",
-                "img": "images/items/coal_badge.png",
+                "img": "images/items/hm02_fly.png",
                 "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_off",
                 "inherit_codes": false
             },
             {
                 "name": "Fly Items Not Required for Flight",
-                "img": "images/items/relic_badge.png",
+                "img": "images/items/hm02_fly.png",
+                "img_mods": "overlay|images/settings/overlays/fly_red_square_overlay.png",
                 "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_on",
                 "inherit_codes": false
             }
