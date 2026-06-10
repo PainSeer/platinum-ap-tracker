@@ -927,4 +927,32 @@
             }
         ]
     },
+        {
+        "name": "Randomize Fly Unlocks",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Randomize Fly Unlocks - OFF",
+                "img": "images/items/fen_badge.png",
+                "codes": "opt_fly_items, opt_fly_items_off",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Fly Unlocks - No Pokemon League",
+                "img": "images/items/forest_badge.png",
+                "codes": "opt_fly_items, opt_fly_items_all_except_pokemon_league",
+                "inherit_codes": false
+            },
+            {
+                "name": "Randomize Fly Unlocks - ALL",
+                "img": "images/items/mine_badge.png",
+                "codes": "opt_fly_items, opt_randomize_fly_items_all",
+                "inherit_codes": false
+            }
+        ]
+    }
+]
 ]
