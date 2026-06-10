@@ -950,7 +950,7 @@
             {
                 "name": "Randomize Fly Unlocks - ALL",
                 "img": "images/items/mine_badge.png",
-                "codes": "opt_fly_items, opt_randomize_fly_items_all",
+                "codes": "opt_fly_items, opt_fly_items_all",
                 "inherit_codes": false
             }
         ]
