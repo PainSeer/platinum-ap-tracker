@@ -925,7 +925,7 @@
                 "img_mods": "overlay|images/settings/overlays/fly_red_square_overlay.png",
                 "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_on",
                 "inherit_codes": false
-            }
+            },
         ]
     },
         {
