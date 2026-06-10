@@ -909,18 +909,18 @@
     {
         "name": "Require Fly Items for Flight",
         "type": "progressive",
-        "initial_stage_idx": 0,
+        "initial_stage_idx": 1,
         "loop": true,
         "allow_disabled": false,
         "stages": [
             {
-                "name": "Fly Items Required for Flight",
+                "name": "Fly Items Not Required for Flight",
                 "img": "images/items/hm02_fly.png",
                 "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_off",
                 "inherit_codes": false
             },
             {
-                "name": "Fly Items Not Required for Flight",
+                "name": "Fly Items Required for Flight",
                 "img": "images/items/hm02_fly.png",
                 "img_mods": "overlay|images/settings/overlays/fly_red_square_overlay.png",
                 "codes": "opt_require_fly_items_for_flight, opt_require_fly_items_for_flight_on",
