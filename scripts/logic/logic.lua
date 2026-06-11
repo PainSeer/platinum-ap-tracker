@@ -54,6 +54,13 @@ function waterfall()
     or (has("hm07waterfall") and has("beaconbadge"))
 end
 
+function down_waterfall()
+    if not has("bag") and not has("hmreader") then
+        return false
+    end
+    return has("hm07waterfall")
+end
+
 function rock_climb()
     if not has("bag") and not has("hmreader") then
         return false
@@ -329,4 +336,12 @@ end
 function can_freefly(destination)
   return fly() and 
   (has("flyunlock_"..destination))
+end
+
+function partial_trainersanity()
+    if TRAINERS:getType() == "partial" then
+        return true
+    else
+        return false
+    end
 end
