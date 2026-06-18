@@ -13,7 +13,7 @@ ScriptHost:AddWatchForCode("opt_storage_key", "opt_storage_key", toggle_itemgrid
 ScriptHost:AddWatchForCode("opt_unown", "opt_unown", toggle_itemgrid)
 ScriptHost:AddWatchForCode("splitmap", "splitmap", toggle_splitmap)
 ScriptHost:AddWatchForCode("opt_pastoria_barriers", "opt_pastoria_barriers", toggle_pastoriabarriers)
-ScriptHost:AddWatchForCode("opt_fly_items", "opt_fly_items", toggle_trackerlayout)
+ScriptHost:AddWatchForCode("opt_randomize_fly_items", "opt_randomize_fly_items", toggle_trackerlayout)
 
 
 -- Pokemon Related
