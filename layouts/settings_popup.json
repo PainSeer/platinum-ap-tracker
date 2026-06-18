@@ -105,7 +105,7 @@
                 "opt_dexsanity",
                 "opt_rods",
                 "opt_poketchapps",
-				"opt_fly_items"
+				"opt_randomize_fly_items"
             ],
             [
                 "opt_shoes",
