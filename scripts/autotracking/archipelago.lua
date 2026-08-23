@@ -653,8 +653,11 @@ function updateHints()
     end
 end
 
+CACHED_MAP = nil
+
 function onMap(mapBounce)
     if has("automap_on") and mapBounce.data ~= nil then
+        CACHED_MAP = mapBounce
         local mapID = mapBounce.data.mapNumber
 
         if MAP_XZYSPLIT_MAPPING[mapID] ~= nil then
