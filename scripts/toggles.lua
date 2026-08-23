@@ -49,6 +49,10 @@ function toggle_pastoriabarriers()
     elseif has("opt_pastoria_barriers_unknown") then
         Tracker:AddMaps("maps/pastoria_unknown.json")
 	end
+
+	if CACHED_MAP ~= nil then
+		onMap(CACHED_MAP)
+	end
 end
 
 function toggle_route207roadblock()
@@ -102,6 +106,10 @@ function toggle_route207roadblock()
 
     elseif has("opt_route_207_barricade_unknown") then
         Tracker:AddMaps("maps/route207_unknown.json")
+	end
+
+	if CACHED_MAP ~= nil then
+		onMap(CACHED_MAP)
 	end
 end
 
@@ -186,6 +194,10 @@ function toggle_route210roadblock()
 
     elseif has("opt_route_210_lower_barricade_unknown") then
         Tracker:AddMaps("maps/route210south_unknown.json")
+	end
+
+	if CACHED_MAP ~= nil then
+		onMap(CACHED_MAP)
 	end
 end
 
