@@ -898,20 +898,20 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "South",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "route214south"
-                ]
-              }
-            },
-            {
               "title": "North",
               "content": {
                 "type": "map",
                 "maps": [
                   "route214north"
+                ]
+              }
+            },
+            {
+              "title": "South",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "route214south"
                 ]
               }
             },
