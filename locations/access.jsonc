@@ -2510,7 +2510,6 @@
     {
         "name": "route_228_rock_peak_ruins",
         "access_rules": [
-            "@route_228, bag, $fly",
             "@route_228, bag, bicycle"
         ]
     },
