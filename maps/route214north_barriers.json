@@ -1,11 +1,5 @@
 [
     {
-        "name": "route212north",
-        "location_size": 14,
-        "location_border_thickness": 2,
-        "img": "images/maps/route212north_barriers.png"
-    },
-    {
         "name": "route214north",
         "location_size": 14,
         "location_border_thickness": 2,
