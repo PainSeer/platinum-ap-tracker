@@ -271,6 +271,10 @@ function toggle_route215roadblock()
     elseif has("opt_route_215_barricade_unknown") then
         Tracker:AddMaps("maps/route215west_unknown.json")
 	end
+
+	if CACHED_MAP ~= nil then
+		onMap(CACHED_MAP)
+	end
 end
 
 
