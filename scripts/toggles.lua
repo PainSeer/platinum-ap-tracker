@@ -201,6 +201,18 @@ function toggle_route210roadblock()
 	end
 end
 
+function r210trainerlocnormal()
+    return has("opt_route_210_lower_barricade_none") or has("opt_route_210_lower_barricade_unknown")
+end
+
+function r210trainerlocchanged()
+    if has("opt_route_210_lower_barricade_none") or has("opt_route_210_lower_barricade_unknown") then
+        return false
+    else
+	return true
+    end
+end
+
 function toggle_route215roadblock()
     if has("opt_route_215_barricade_none") then
         Tracker:AddMaps("maps/route215west.json")
