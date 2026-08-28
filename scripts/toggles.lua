@@ -201,6 +201,26 @@ function toggle_route210roadblock()
 	end
 end
 
+function r210trainerlocnormal()
+    return has("opt_route_210_lower_barricade_none") or has("opt_route_210_lower_barricade_unknown")
+end
+
+function r210trainerlocchanged()
+    return not (has("opt_route_210_lower_barricade_none") or has("opt_route_210_lower_barricade_unknown"))
+end
+
+function r210itemlocnormal()
+    return has("opt_route_210_lower_barricade_none") or has("opt_route_210_lower_barricade_unknown") or has("opt_route_210_lower_barricade_impassable") or has("opt_route_210_lower_barricade_cut_tree") or has("opt_route_210_lower_barricade_rock_smash") or has("opt_route_210_lower_barricade_strength_boulder") or has("opt_route_210_lower_barricade_psyduck") 
+end
+
+function r210itemlochill()
+    return has("opt_route_210_lower_barricade_bicycle_slope") or has("opt_route_210_lower_barricade_rock_climb") or has("opt_route_210_lower_barricade_bicycle_slope_and_cut_tree") or has("opt_route_210_lower_barricade_bicycle_slope_and_rock_smash") or has("opt_route_210_lower_barricade_bicycle_slope_and_psyduck") or has("opt_route_210_lower_barricade_rock_climb_and_rock_smash") or has("opt_route_210_lower_barricade_rock_climb_and_strength_boulder") or has("opt_route_210_lower_barricade_rock_climb_and_psyduck")
+end
+
+function r210itemlocwater()
+    return not (r210itemlocnormal() or r210itemlochill())
+end
+
 function toggle_route215roadblock()
     if has("opt_route_215_barricade_none") then
         Tracker:AddMaps("maps/route215west.json")
