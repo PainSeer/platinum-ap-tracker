@@ -206,11 +206,7 @@ function r210trainerlocnormal()
 end
 
 function r210trainerlocchanged()
-    if has("opt_route_210_lower_barricade_none") or has("opt_route_210_lower_barricade_unknown") then
-        return false
-    else
-	return true
-    end
+    return not (has("opt_route_210_lower_barricade_none") or has("opt_route_210_lower_barricade_unknown"))
 end
 
 function toggle_route215roadblock()
