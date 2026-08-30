@@ -653,6 +653,7 @@ function updateHints()
     end
 end
 
+-- gets used when revealing hidden roadblocks so the tab doesn't switch off
 CACHED_MAP = nil
 
 function onMap(mapBounce)
