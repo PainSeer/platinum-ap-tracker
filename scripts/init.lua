@@ -26,9 +26,9 @@ ScriptHost:LoadScript("scripts/custom_items.lua")
 Tracker:AddMaps("maps/errors.json")
 Tracker:AddMaps("maps/maps.json")
 Tracker:AddMaps("maps/pastoria_barriers.json")
-Tracker:AddMaps("maps/route210south.json")
-Tracker:AddMaps("maps/route207.json")
-Tracker:AddMaps("maps/route215west.json")
+Tracker:AddMaps("maps/route210south/route210south.json")
+Tracker:AddMaps("maps/route207/route207.json")
+Tracker:AddMaps("maps/route215west/route215west.json")
 Tracker:AddMaps("maps/pokedex.json")
 
 -- Layout
